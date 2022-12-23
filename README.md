@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ruchika-Sehgal
-- 👀 I’m interested in Java/ Front end Development
-- 🌱 I’m currently learning Android Dev
+- 👀 I’m interested in Front end Development
+- 🌱 I’m currently learning Front End Development
 - 💞️ I’m looking to collaborate on various projects
 - 📫 Contact me via mail @  ruchikasehgal001@gmail.com
 
